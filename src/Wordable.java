@@ -1,7 +1,7 @@
 /**
  * A functional interface for creating a String based on an input string and an integer.
  *
- * @author Emma Lee
+ * @author Emma Lee, Nicholas Farrell
  * @version 2024
  */
 @FunctionalInterface

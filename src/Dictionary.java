@@ -4,7 +4,7 @@ import java.util.*;
  * A class representing a dictionary with a list of words and utility methods.
  * Provides methods for string manipulation and word list operations.
  *
- * @author Emma Lee
+ * @author Emma Lee, Nicholas Farrell
  * @version 2024
  */
 public class Dictionary

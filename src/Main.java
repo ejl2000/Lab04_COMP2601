@@ -3,7 +3,7 @@ import java.util.*;
 /**
  * The main class for executing the program.
  *
- * @author Emma Lee
+ * @author Emma Lee, Nicholas Farrell
  * @version 2024
  */
 public class Main
