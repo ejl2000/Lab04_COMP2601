@@ -21,7 +21,6 @@ public class Main
      */
     public static void main(final String[] args)
     {
-        // Check if there are enough command-line arguments
         if (args.length < MIN_REQUIRED_ARGS)
         {
             System.out.println("Please provide at least one argument.");

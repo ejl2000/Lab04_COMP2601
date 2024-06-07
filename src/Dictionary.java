@@ -11,7 +11,6 @@ public class Dictionary
 {
     public static final int MIN_WORD_LENGTH = 5;
     private static final List<String> words = Arrays.asList(
-            // List of words
             "jab", "jabbed", "jabber", "jabbered", "jabbering", "jabbers", "jabberwocky", "jabbing",
             "jabot", "jabots", "jabs", "jacaranda", "jacarandas", "jacinth", "jack", "jackal",
             "jackals", "jackanapes", "jackanapeses", "jackass", "jackasses", "jackboot", "jackboots",
